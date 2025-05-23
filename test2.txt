@@ -1,2 +1,3 @@
 Created Offline
 to check add,commit,push
+Made changes online use git pull to make it offline
